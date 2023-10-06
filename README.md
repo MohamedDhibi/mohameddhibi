@@ -23,7 +23,16 @@
 </p>
 <!--Intro start-->
 <h4>
+<p>
+<!--- trophy (start) -->
+<div align=center>
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mohameddhibi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+</div>
+<!--- trophy (start) -->
 
+
+</p>        
+<!--- stats (end) -->
 - 🔭 I’m currently working on **OpenCV, PyMu, YOLO, Bert, Azure**
   
 - 🌱 I’m currently learning **on how to extract data from Pictures including figures in an ordered way**
@@ -59,7 +68,7 @@
 </tr>
 </table>
 <!--- stats (end) -->
-
+</p>
 <h1 align="left">🚀 About Me</h1>
 
 <p align="justify">Greetings, intrepid reader! I'm someone who's constantly fueled by <b>curiosity</b>, and I love diving into the expansive sea of knowledge. A tech enthusiast at heart, I've explored various realms, from the intricate dance of <b>code</b> to the captivating universe of <b>data science</b>.
