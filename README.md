@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=14&pause=1000&color=C3AB20&multiline=true&width=1200&height=101&lines=Welcome+to+my+galaxy+where+data+flows+like+cosmic+rivers%2C+algorithms+are+the+constellations+guiding+our+insights%2C+and+each+commit+is+a+step+in+unraveling+;the+mysteries+of+the+data+science+cosmos.+Join+me+on+this+celestial+journey+of+exploration+and+discovery." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=14&pause=1000&color=000000FF&multiline=true&width=1200&height=101&lines=Welcome+to+my+galaxy+where+data+flows+like+cosmic+rivers%2C+algorithms+are+the+constellations+guiding+our+insights%2C+and+each+commit+is+a+step+in+unraveling+;the+mysteries+of+the+data+science+cosmos.+Join+me+on+this+celestial+journey+of+exploration+and+discovery." alt="Typing SVG">
 </p>
 
 <h1 align="left">🚀 About Me</h1>
