@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://t3.ftcdn.net/jpg/02/42/83/38/360_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg">
   <img src="https://github-readme-stats.vercel.app/api?username=mohameddhibi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddhibi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddhibi&layout=pie">
 </p>
 
 
