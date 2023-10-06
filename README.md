@@ -1,9 +1,12 @@
 <p align="center">
+  <t1>test</t1>
+</p>
+<p align="center">
   <img src="https://github.com/MohamedDhibi/mohameddhibi/blob/2f7b8f0d35f538d4b5e1de82e26f9c2fa2e0e985/Banner.png?raw=true" width="200%" alt="Banner">
 </p>
 
 <p align="center">
- # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=14&pause=1000&color=000000FF&multiline=true&width=1200&height=101&lines=Welcome+to+my+galaxy+where+data+flows+like+cosmic+rivers%2C+algorithms+are+the+constellations+guiding+our+insights%2C+and+each+commit+is+a+step+in+unraveling+;the+mysteries+of+the+data+science+cosmos.+Join+me+on+this+celestial+journey+of+exploration+and+discovery." alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=14&pause=1000&color=000000FF&multiline=true&width=1200&height=101&lines=Welcome+to+my+galaxy+where+data+flows+like+cosmic+rivers%2C+algorithms+are+the+constellations+guiding+our+insights%2C+and+each+commit+is+a+step+in+unraveling+;the+mysteries+of+the+data+science+cosmos.+Join+me+on+this+celestial+journey+of+exploration+and+discovery." alt="Typing SVG">
 </p>
 
 <h1 align="left">🚀 About Me</h1>
