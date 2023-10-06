@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://github.com/MohamedDhibi/mohameddhibi/blob/2f7b8f0d35f538d4b5e1de82e26f9c2fa2e0e985/Banner.png?raw=true" width="200%" alt="Banner">
+  <img src="https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg" width="200%" alt="Banner">
 </p>
 
 <p align="center">
