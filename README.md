@@ -20,9 +20,43 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=14&pause=1000&color=000000FF&multiline=true&width=1200&height=101&lines=Welcome+to+my+galaxy+where+data+flows+like+cosmic+rivers%2C+algorithms+are+the+constellations+guiding+our+insights%2C+and+each+commit+is+a+step+in+unraveling+;the+mysteries+of+the+data+science+cosmos.+Join+me+on+this+celestial+journey+of+exploration+and+discovery." alt="Typing SVG">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohameddhibi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddhibi&layout=donut">
 </p>
+<!--Intro start-->
+- 🔭 I’m currently working on **OpenCV, PyMu, YOLO, Bert, Azure**
+
+- 🌱 I’m currently learning **on how to extract data from Pictures including figures in an ordered way**
+
+- ☁️ I've keen interest in Deep Learning and Machine Learning. So,I'm learning **Advanced NLP techniques**
+
+- 📝 I regularly post articles on [Hashnode](https://www.linkedin.com/in/mohameddhibi//)
+
+- 💬 Ask me about **Big Data, Machine Learning, Deep Learning, Predictive Analysis...**
+
+- 📫 Feel free to reach me out **mohamed.dhibi@esprit.tn**
+
+<!--Intro end-->
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=mohameddhibi&show_icons=true&count_private=true" />
+  <br></br>
+  <img   alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddhibi&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mohameddhibi&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
 <h1 align="left">🚀 About Me</h1>
 
