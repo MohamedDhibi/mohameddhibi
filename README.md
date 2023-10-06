@@ -12,7 +12,15 @@
   </ul>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p>
+<!--- trophy (start) -->
+<div align=center>
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mohameddhibi&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+</div>
+<!--- trophy (start) -->
 
+
+</p>     
 <p align="center">
   <img src="https://t3.ftcdn.net/jpg/02/42/83/38/360_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg">
 </p>
@@ -23,15 +31,7 @@
 </p>
 <!--Intro start-->
 <h4>
-<p>
-<!--- trophy (start) -->
-<div align=center>
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mohameddhibi&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
+   
 <!--- stats (end) -->
 - 🔭 I’m currently working on **OpenCV, PyMu, YOLO, Bert, Azure**
   
