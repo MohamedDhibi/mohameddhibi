@@ -12,13 +12,13 @@
 
 <p align="center">
   <img src="https://t3.ftcdn.net/jpg/02/42/83/38/360_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohameddhibi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddhibi&layout=donut">
 </p>
 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=14&pause=1000&color=000000FF&multiline=true&width=1200&height=101&lines=Welcome+to+my+galaxy+where+data+flows+like+cosmic+rivers%2C+algorithms+are+the+constellations+guiding+our+insights%2C+and+each+commit+is+a+step+in+unraveling+;the+mysteries+of+the+data+science+cosmos.+Join+me+on+this+celestial+journey+of+exploration+and+discovery." alt="Typing SVG">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohameddhibi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddhibi&layout=donut">
 </p>
 
 <h1 align="left">🚀 About Me</h1>
