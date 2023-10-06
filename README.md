@@ -23,7 +23,7 @@
 </p>
 <!--Intro start-->
 <h4>
-- I’m currently working on **OpenCV, PyMu, YOLO, Bert, Azure**
+- 🔭 I’m currently working on **OpenCV, PyMu, YOLO, Bert, Azure**
 
 - 🌱 I’m currently learning **on how to extract data from Pictures including figures in an ordered way**
 
