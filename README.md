@@ -22,6 +22,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=14&pause=1000&color=000000FF&multiline=true&width=1200&height=101&lines=Welcome+to+my+galaxy+where+data+flows+like+cosmic+rivers%2C+algorithms+are+the+constellations+guiding+our+insights%2C+and+each+commit+is+a+step+in+unraveling+;the+mysteries+of+the+data+science+cosmos.+Join+me+on+this+celestial+journey+of+exploration+and+discovery." alt="Typing SVG">
 </p>
 <!--Intro start-->
+<h4>
 - 🔭 I’m currently working on **OpenCV, PyMu, YOLO, Bert, Azure**
 
 - 🌱 I’m currently learning **on how to extract data from Pictures including figures in an ordered way**
@@ -33,7 +34,7 @@
 - 💬 Ask me about **Big Data, Machine Learning, Deep Learning, Predictive Analysis...**
 
 - 📫 Feel free to reach me out **mohamed.dhibi@esprit.tn**
-
+</h4>
 <!--Intro end-->
 
 
