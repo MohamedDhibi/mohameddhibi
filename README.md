@@ -29,7 +29,7 @@
 
 - ☁️ I've keen interest in Deep Learning and Machine Learning. So,I'm learning **Advanced NLP techniques**
 
-- 📝 I regularly post articles on [Hashnode](https://www.linkedin.com/in/mohameddhibi//)
+- 📝 I regularly post articles on [Linkedin(mohamedDhibi)](https://www.linkedin.com/in/mohameddhibi//)
 
 - 💬 Ask me about **Big Data, Machine Learning, Deep Learning, Predictive Analysis...**
 
