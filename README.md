@@ -24,7 +24,8 @@
 <!--Intro start-->
 <h4>
 
-
+- 🔭 I’m currently working on **OpenCV, PyMu, YOLO, Bert, Azure**
+  
 - 🌱 I’m currently learning **on how to extract data from Pictures including figures in an ordered way**
 
 - ☁️ I've keen interest in Deep Learning and Machine Learning. So,I'm learning **Advanced NLP techniques**
