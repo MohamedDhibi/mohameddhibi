@@ -2,11 +2,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-  <ul align="center">
+<p align="center">
   <h1 style="display: inline-block; color: black;">Hi 👋, I'm Mohamed</h1>
   <h2 style="display: inline-block; color: black;">the cosmic coder with a flair for dad jokes and a mission to turn data into laughter</h2>
 
-  </ul>
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p>
 <!--- trophy (start) -->
