@@ -7,6 +7,8 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Mohamed</h1></summary>
   </ul>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://github.com/MohamedDhibi/mohameddhibi/blob/2f7b8f0d35f538d4b5e1de82e26f9c2fa2e0e985/Banner.png?raw=true" width="200%" alt="Banner">
 </p>
