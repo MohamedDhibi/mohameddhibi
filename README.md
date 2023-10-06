@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedhibi/mohameddhibi/main/banner.gif" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/mohamedhibi/mohameddhibi/main/bannervid.mp4" width="100%" alt="Banner">
 </p>
 
 <p align="center">
