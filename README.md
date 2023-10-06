@@ -88,6 +88,6 @@ So, join me as we traverse the cosmic rivers of <b>data</b>, turning each <b>com
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,r,py,sql,mongodb,mysql,selenium,spring,django,dotnet,java,js,html,css,vscode,visualstudio,github,git,docker,linux,idea,eclipse,maven,powershell,postman,lua,cpp,c,csharp,gtk,jenkins,matlab,stackoverflow&perline=14" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,r,py,sqlite,mongodb,mysql,selenium,spring,django,dotnet,java,js,html,css,vscode,visualstudio,github,git,docker,linux,idea,eclipse,maven,powershell,postman,lua,cpp,c,cs,gtk,jenkins,matlab,stackoverflow&perline=14" />
   </a>
 </p>
