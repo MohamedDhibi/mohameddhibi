@@ -101,5 +101,5 @@ So, join me as we traverse the cosmic rivers of <b>data</b>, turning each <b>com
 </p>
 <!--profile visit count-->
 <div align="center">
-  <img src=https://visitcount.itsvg.in/api?id=mohameddhibi&label=Lurkers&color=0&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=mohameddhibi&label=Lurkers&color=0&icon=6&pretty=true" />
 </div>
